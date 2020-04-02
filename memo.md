@@ -1,0 +1,7 @@
+---
+permalink: "/memo/"
+---
+[HOME](/)
+
+# MEMO
+
