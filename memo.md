@@ -1,4 +1,5 @@
 ---
+layout: post
 permalink: "/memo/"
 ---
 [HOME](/)
